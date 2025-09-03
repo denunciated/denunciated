@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to denunciated github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-🌹 Hello! I'm Den. I'm a programmer engineer that creates things ✧ (=w=) ✦ The network of creation is my home. 🌹
+🌹 Hello! I'm Den. I'm a programmer engineer that creates things ✧ (=w=) ✦ <br>The network of creation is my home. 🌹
 </p>
 <h1> </h1>
 <br>
