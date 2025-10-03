@@ -12,7 +12,7 @@
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux User ■ Data Scientist ■ Bot Developer ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux User ■ Python Developer ■ Bot Developer ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
