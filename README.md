@@ -28,3 +28,5 @@
   <p align="center">
     ■ 𝐈𝐧 𝐭𝐡𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐜𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐢𝐧𝐝 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 ■
   </p>
+
+<img src="https://count.getloli.com/@denunciated?name=denunciated&theme=original-old&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" align="center"/>
