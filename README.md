@@ -12,7 +12,7 @@
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux User ■ Web Developer ■ Quality Assurance ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Linux User ■ Web Developer ■ Gaming Connoisseur ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
